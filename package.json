@@ -1,0 +1,11 @@
+{
+  "name": "crontab-docker",
+  "version": "0.0.8",
+  "description": "crontab docker",
+  "keywords": [
+    "crontab",
+    "docker"
+  ],
+  "author": "manhavn",
+  "license": "ISC"
+}
